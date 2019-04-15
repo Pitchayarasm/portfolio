@@ -1,0 +1,14 @@
+.contact {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.middle {
+    background-color:#ffffff;
+    max-width: 90%;
+    margin: auto;
+    padding: 20px;
+    border: 1.5px solid;
+    border-radius: 8px;
+}
+

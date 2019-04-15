@@ -1,0 +1,30 @@
+
+#name {
+    color: rgb(49,49,49);
+    /* text-shadow: 2px 2px 4px rgb(214, 200, 200); */
+    margin-top: 20%;
+    text-align: center;
+    line-height: 90px;  
+    font-size: 50px;
+}
+
+#dev {
+    color: rgb(49,49,49);
+    text-align: center;
+    margin-top: 40px;
+}
+
+.buttons {
+    border: 2px solid rgb(49,49,49);
+    background: none;
+    padding: 5px 15px;
+    margin: 35px 25px;
+    font-size: 24px;
+    color: rgb(49,49,49);
+    border-radius: 5px;
+}
+
+.buttons:hover {
+    background: rgb(49,49,49);
+    color:rgb(242,242,242);
+}
