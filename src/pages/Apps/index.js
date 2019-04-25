@@ -101,7 +101,7 @@ function Apps() {
                 <div className="middle" style={{height:"690px", marginBottom:"30px"}}>
                   <h3 style={{textAlign:"center"}}>Tripper</h3>
                   <br/>
-                  <a href="http://tripper-2019.herokuapp.com" target="_blank" rel="noopener noreferrer"><img className="image-project" src="./images/Tripper.png" alt="Tripper"/></a>
+                  <a href="#" target="_blank" rel="noopener noreferrer"><img className="image-project" src="./images/Tripper.png" alt="Tripper"/></a>
                   <br/>
                   <h5>Technologies</h5>
                   <ul>
