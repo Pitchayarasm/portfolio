@@ -14,7 +14,8 @@ function About() {
               who has a background in Mechanical Engineering as well as a
               Bachelor's Degree in the industry , whose recent work was in Aerospace. 
               Proficient in HTML/CSS, JavaScript, jQuery, Node.js, MERN stack (MongoDB, Express, React, Node), and MySQL.
-              Looking to gain more experiences in web development industry and open to opportunities.
+              Fast learner, hard worker and team player. Looking for a great, enthusiastic engineering team to work for 
+              that will provide me with challenging, interesting work that I can learn from and contribute to.
             </div>
           </div>     
     </>
