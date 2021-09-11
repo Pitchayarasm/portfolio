@@ -17,7 +17,7 @@ function Contact() {
                 <br/>
                 <div className="middle" style={{fontSize:"30px"}}>
                   <i class="fas fa-file"></i>
-                  &nbsp;&nbsp; <a href="./file/Pitchayarasm Resume_.docx" rel="noopener noreferrer" target="_blank" style={{color:"rgb(49,49,49)"}} >My Resume</a> 
+                  &nbsp;&nbsp; <a href="./file/Pitchayarasm_Resume.pdf" rel="noopener noreferrer" target="_blank" style={{color:"rgb(49,49,49)"}} >My Resume</a> 
                 </div>
               </div>
               <div className="col-lg-6">

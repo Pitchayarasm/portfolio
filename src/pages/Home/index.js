@@ -8,7 +8,7 @@ function Home() {
         <div className="container">
           <h1 id="name">PITCHAYARASM KUNGHAE</h1>
           <hr/>
-          <h2 id="dev">Full Stack Web Developer</h2>
+          <h2 id="dev">Software Engineer</h2>
           <div style={{textAlign:"center"}}>
             <Link to="/about" >
               <button className="buttons">About Me</button>
